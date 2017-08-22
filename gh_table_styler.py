@@ -34,3 +34,5 @@ with open(in_file_name) as gh_file:
                     table = [] 
 
                 out_file.writelines(i)
+        else :
+            out_file.writelines("\n")

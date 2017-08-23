@@ -2,7 +2,8 @@
 a very simple python script convert the ugly unintended tables into pretty ones 
 
 Example :
-it converts the un formated tables from your feature file like this  
+
+it converts the unformated tables from your feature file like this  
 ```
 |id|secure key|processing|
 |1|11| 2% |

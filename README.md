@@ -16,3 +16,4 @@ into pretty one like this :
 | 2  | 22         | 3%         |
 ```
 
+no matter how many tables in the file, it can prettify them all
